@@ -1,0 +1,25 @@
+{
+  "name": "Duas portas, dois futuros — CE Joaquim Soeiro de Carvalho",
+  "short_name": "Duas Portas VR",
+  "description": "Experiência imersiva do eixo A cor dos números e as palavras do preconceito",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#080f1e",
+  "theme_color": "#080f1e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
